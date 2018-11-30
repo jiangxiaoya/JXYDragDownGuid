@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JXYDragDownGuide/ViewController.m"
+            timestampString = "565271684.9868799"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "-showGuide"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController showGuide]"
+                  moduleName = "JXYDragDownGuide"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiangxiaoya/Desktop/JXYDragDownGuide/JXYDragDownGuide/ViewController.m"
+                  timestampString = "565271462.62659"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__27-[ViewController showGuide]_block_invoke"
+                  moduleName = "JXYDragDownGuide"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiangxiaoya/Desktop/JXYDragDownGuide/JXYDragDownGuide/ViewController.m"
+                  timestampString = "565271462.629114"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_"
+                  moduleName = "JXYDragDownGuide"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiangxiaoya/Desktop/JXYDragDownGuide/JXYDragDownGuide/ViewController.m"
+                  timestampString = "565271462.631462"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
